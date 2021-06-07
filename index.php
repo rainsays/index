@@ -42,7 +42,7 @@ class config {
     // menu
     'menu_enabled' => true,
     'menu_show' => true,
-    'menu_max_depth' => 3,
+    'menu_max_depth' => 5,
     'menu_sort' => 'name_asc', // name_asc, name_desc, date_asc, date_desc
     'menu_cache_validate' => true,
     'menu_load_all' => false,
